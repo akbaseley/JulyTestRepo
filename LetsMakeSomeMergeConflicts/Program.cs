@@ -6,7 +6,7 @@ namespace LetsMakeSomeMergeConflicts
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("C# is the greatest!");
+            Console.WriteLine("The quick brown fox jumped over the lazy dog because C# is the greatest!");
         }
     }
 }
